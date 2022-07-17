@@ -1,5 +1,7 @@
 # ICUSyllabusScrape
 
+### This project has moved to https://github.com/pentaCoxian/ICUAppAPI due to changing the db to mariadb
+
 ICUのシラバスとコースオファリングスのスクレイピングを行ってmongodb atlasに挿入するスクリプトです。
 
 ## 必要パッケージ
